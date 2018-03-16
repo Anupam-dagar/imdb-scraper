@@ -1,4 +1,4 @@
-# IMDb Scraper
+# IMDb Scraper.
 
 ### Usage:
 1. Download the required dependencies.
